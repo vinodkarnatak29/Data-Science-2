@@ -1,4 +1,4 @@
-# DataScienceSession2Assignment1
+# Data ScienceSession 2
 
 1. Program which accepts a sequence of comma-separated numbers from console and generate a list.
 2. Create the  pattern using nested for loop in Python.
